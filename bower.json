@@ -13,7 +13,9 @@
     "package.json",
     "gulpFile.js"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "cois-observable": "~1.0.0"
+  },
   "devDependencies": {
     "jasmine": "~2.1.3"
   }
