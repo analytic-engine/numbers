@@ -14,7 +14,8 @@
     "gulpFile.js"
   ],
   "dependencies": {
-    "cois-observable": "~1.0.0"
+    "cois-observable": "~1.0.0",
+    "analytic-engine-math.util": "~1.0.1"
   },
   "devDependencies": {
     "jasmine": "~2.1.3"
